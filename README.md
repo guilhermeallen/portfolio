@@ -1,2 +1,2 @@
 # portfolio
- Site Portfólio
+ Site Portfólio (Incompleto- Faltando conteúdo e implementação de JavaScript)
